@@ -1,5 +1,5 @@
 def sort_mas(args: list):
-    raise NotImplementedError()
+    pass
 
 
 lst = input().split()
